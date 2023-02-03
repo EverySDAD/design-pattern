@@ -4,5 +4,5 @@
 wando <br>
 ![Go](https://shields.io/badge/go-black?logo=go&style=for-the-badge%22)
 
-hj <br>
-any programming language
+HoonJ <br>
+![Java](https://shields.io/badge/Java-007396?style=for-the-badge%22)
