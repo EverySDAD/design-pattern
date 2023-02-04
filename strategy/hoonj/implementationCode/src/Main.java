@@ -9,10 +9,16 @@ public class Main {
         int nextInt = paymentSelectInput(paymentWay);
         System.out.println(paymentWay[nextInt].getText() + " 입력했습니다.");
         Payment payment = new Payment();
+        /* 입력값에 따라 로직 변경*/
         payment.setPaymentWay(paymentWay[nextInt].getPaymentWay());
         payment.pay();
     }
 
+    /**
+     * 입력 잘못입력하면 재귀로 부르기위해서 따로 함수로 뻄
+     * @param payment
+     * @return
+     */
     private static int paymentSelectInput(Payments[] payment){
         Scanner sc = new Scanner(System.in);
         System.out.println("다음은 결재 수단 목록입니다.");
