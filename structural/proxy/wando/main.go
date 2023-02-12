@@ -18,7 +18,8 @@ func main() {
 	// bodyguard.GetOut(marco)
 	// bodyguard.GetOut(luppy)
 
-	bodyGuardProxy := new(yes.ProxyObject)
-	bodyGuardProxy.GetOut(marco)
-	bodyGuardProxy.GetOut(luppy)
+	var bodyGuard yes.IObject
+	bodyGuard = &yes.ProxyObject{} // new(yes.ProxyObject) 와 동일
+	bodyGuard.GetOut(marco)
+	bodyGuard.GetOut(luppy)
 }
