@@ -1,10 +1,9 @@
 package main
 
-import (
-	// "fmt"
-	// "strategy/no"
-	"strategy/yes"
-)
+import "behavioral/strategy/wando/yes"
+
+// "fmt"
+// "strategy/no"
 
 func main() {
 	// 전략패턴을 이용하지 않았을때
