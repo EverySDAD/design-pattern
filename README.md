@@ -17,5 +17,5 @@ HoonJ <br>
 |Pattern|Status|Wando|Hoonj|
 |:-------:|:------:|:-----------:|:-----------:|
 | [Proxy](https://github.com/EverySDAD/design-pattern/tree/main/structural/proxy) | <span style="color:green">✔</span> |[Wando Proxy](https://github.com/EverySDAD/design-pattern/tree/main/structural/proxy/wando) <span style="color:green">✔</span>|[Hoonj Proxy](https://github.com/EverySDAD/design-pattern/tree/main/structural/proxy/hoonj) <span style="color:green">✔</span> |
-| [Adapter](https://github.com/EverySDAD/design-pattern/tree/main/structural/adapter) | <span style="color:red">✔</span> |[Wando Proxy](https://github.com/EverySDAD/design-pattern/tree/main/structural/adapter/wando) <span style="color:red">✔</span>|[Hoonj Proxy](https://github.com/EverySDAD/design-pattern/tree/main/structural/adapter/hoonj) <span style="color:red">✔</span> |
+| [Adapter](https://github.com/EverySDAD/design-pattern/tree/main/structural/adapter) | <span style="color:red">✘</span> |[Wando Adapter](https://github.com/EverySDAD/design-pattern/tree/main/structural/adapter/wando) <span style="color:red">✘</span>|[Hoonj Adapter](https://github.com/EverySDAD/design-pattern/tree/main/structural/adapter/hoonj) <span style="color:red">✘</span> |
 |||||
