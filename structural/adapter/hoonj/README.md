@@ -23,7 +23,7 @@ _자바에선 다중상속을 지원하지않으므로 `Structural Adapter Patte
 - Adaptee: 인터페이스의 적응이 필요한 기존 인터페이스를 정의하는 클래스
 - Adapter: Target 인터페이스에 Adaptee의 인터페이스를 적응시키는 클래스
 
-사용자는 Target만 바라보고 호풀시 Target을 구현한 Adapter 인스턴스에게 연산을 호출하고 Adepter 는 해당 요청을 수행하기 위해 Adaptee의 연산을 호출한다.
+사용자는 Target만 바라보고 호출시 Target을 구현한 Adapter 인스턴스에게 연산을 호출하고 Adepter 는 해당 요청을 수행하기 위해 Adaptee의 연산을 호출한다.
 
 ### 장점
 - Adapter 클래스 하나만 있어도 수많은 Adaptee 클래스들과 동작할수 있다.
