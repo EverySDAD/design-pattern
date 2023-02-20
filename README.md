@@ -7,6 +7,12 @@ wando <br>
 HoonJ <br>
 ![Java](https://shields.io/badge/Java-007396?style=for-the-badge%22)  
 
+# Creational Patterns
+|Pattern|Status|Wando|Hoonj|
+|:-------:|:------:|:-----------:|:-----------:|
+| [Singleton](https://github.com/EverySDAD/design-pattern/tree/main/creational/singleton) | <span style="color:red">✘</span> |[Wando Singleton](https://github.com/EverySDAD/design-pattern/tree/main/creational/singleton/wando) <span style="color:red">✘</span>|[Hoonj Singleton](https://github.com/EverySDAD/design-pattern/tree/main/creational/singleton/hoonj) <span style="color:red">✘</span> |
+|||||
+
 # Behavioral Patterns
 |Pattern|Status|Wando|Hoonj|
 |:-------:|:------:|:-----------:|:-----------:|
@@ -18,5 +24,4 @@ HoonJ <br>
 |:-------:|:------:|:-----------:|:-----------:|
 | [Proxy](https://github.com/EverySDAD/design-pattern/tree/main/structural/proxy) | <span style="color:green">✔</span> |[Wando Proxy](https://github.com/EverySDAD/design-pattern/tree/main/structural/proxy/wando) <span style="color:green">✔</span>|[Hoonj Proxy](https://github.com/EverySDAD/design-pattern/tree/main/structural/proxy/hoonj) <span style="color:green">✔</span> |
 | [Adapter](https://github.com/EverySDAD/design-pattern/tree/main/structural/adapter) | <span style="color:green">✔</span> |[Wando Adapter](https://github.com/EverySDAD/design-pattern/tree/main/structural/adapter/wando) <span style="color:green">✔</span>|[Hoonj Adapter](https://github.com/EverySDAD/design-pattern/tree/main/structural/adapter/hoonj) <span style="color:green">✔</span> |
-| [Singleton](https://github.com/EverySDAD/design-pattern/tree/main/creational/singleton) | <span style="color:red">✘</span> |[Wando Singleton](https://github.com/EverySDAD/design-pattern/tree/main/creational/singleton/wando) <span style="color:red">✘</span>|[Hoonj Singleton](https://github.com/EverySDAD/design-pattern/tree/main/creational/singleton/hoonj) <span style="color:red">✘</span> |
 |||||
