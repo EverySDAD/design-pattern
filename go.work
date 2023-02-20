@@ -2,5 +2,6 @@ go 1.19
 
 use (
 	./structural/proxy/wando
+	./structural/adapter/wando
 	./behavioral/strategy/wando
 )
