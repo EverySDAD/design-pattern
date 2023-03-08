@@ -10,13 +10,14 @@ HoonJ <br>
 # Creational Patterns
 |Pattern|Status|Wando|Hoonj|
 |:-------:|:------:|:-----------:|:-----------:|
-| [Singleton](https://github.com/EverySDAD/design-pattern/tree/main/creational/singleton) | <span style="color:red">✘</span> |[Wando Singleton](https://github.com/EverySDAD/design-pattern/tree/main/creational/singleton/wando) <span style="color:red">✘</span>|[Hoonj Singleton](https://github.com/EverySDAD/design-pattern/tree/main/creational/singleton/hoonj) <span style="color:red">✘</span> |
+| [Singleton](https://github.com/EverySDAD/design-pattern/tree/main/creational/singleton) | <span style="color:green">✔</span> |[Wando Singleton](https://github.com/EverySDAD/design-pattern/tree/main/creational/singleton/wando) <span style="color:green">✔</span>|[Hoonj Singleton](https://github.com/EverySDAD/design-pattern/tree/main/creational/singleton/hoonj) <span style="color:green">✔</span> |
 |||||
 
 # Behavioral Patterns
 |Pattern|Status|Wando|Hoonj|
 |:-------:|:------:|:-----------:|:-----------:|
 |[Strategy](https://github.com/EverySDAD/design-pattern/tree/main/behavioral/strategy)|<span style="color:green">✔</span>|[Wando Strategy](https://github.com/EverySDAD/design-pattern/tree/main/behavioral/strategy/wando) <span style="color:green">✔</span>|[Hoonj Strategy](https://github.com/EverySDAD/design-pattern/tree/main/behavioral/strategy/hoonj) <span style="color:green">✔</span>|
+|[Template](https://github.com/EverySDAD/design-pattern/tree/main/behavioral/template)|<span style="color:red">✘</span>|[Wando Template](https://github.com/EverySDAD/design-pattern/tree/main/behavioral/template/wando) <span style="color:red">✘</span>|[Hoonj Template](https://github.com/EverySDAD/design-pattern/tree/main/behavioral/template/hoonj) <span style="color:red">✘</span>|
 |||||
 
 # Structural Patterns
