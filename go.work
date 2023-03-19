@@ -4,5 +4,6 @@ use (
 	./structural/proxy/wando
 	./structural/adapter/wando
 	./behavioral/strategy/wando
+	./behavioral/template/wando
 	./creational/singleton/wando
 )
